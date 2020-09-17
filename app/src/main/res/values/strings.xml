@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Trouvaille</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="registerLabel">Register</string>
+    <string name="loginLabel">Login</string>
+    <string name="sharedPreferencesEmail">EMAIL</string>
+    <string name="sharedPreferencesPassword">PASSWORD</string>
+    <string name="sharedPreferences">SharedPrefs</string>
+    <string name="already_Registered">Already Registered? Login Here</string>
+    <string name="existing_user">New User? Register Here</string>
+
+    <string name="notYetRegistered">Not Yet Registered</string>
+
+    <string name="Food">FOOD</string>
+    <string name="Cafe">CAFE</string>
+    <string name="Shopping">SHOPPING</string>
+    <string name="Hotel">HOTEL</string>
+    <string name="Movies">MOVIES</string>
+    <string name="Gaming">GAMING</string>
+
+    <string name="Reviews">Reviews</string>
+    <string name="About">About</string>
+</resources>
