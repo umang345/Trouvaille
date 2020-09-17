@@ -1,2 +1,6 @@
 # Trouvaille
-My Travel Guide
+## My Travel Guide
+
+This application is a travel guide which contains information abou all the places of entertainment in your city.
+
+<img src="https://github.com/umang345/Trouvaille/blob/master/readmeImages/sc1.jpg" width="200" height="320">                <img src="https://github.com/umang345/Trouvaille/blob/master/readmeImages/sc11.jpg" width="200" height="320">                <img src="https://github.com/umang345/Trouvaille/blob/master/readmeImages/sc2.jpg" width="200" height="320">                <img src="https://github.com/umang345/Trouvaille/blob/master/readmeImages/sc3.jpg" width="200" height="320">                <img src="https://github.com/umang345/Trouvaille/blob/master/readmeImages/sc4.jpg" width="200" height="320">                <img src="https://github.com/umang345/Trouvaille/blob/master/readmeImages/sc5.jpg" width="200" height="320">                <img src="https://github.com/umang345/Trouvaille/blob/master/readmeImages/sc6.jpg" width="200" height="320">                <img src="https://github.com/umang345/Trouvaille/blob/master/readmeImages/sc7.jpg" width="200" height="320">                <img src="https://github.com/umang345/Trouvaille/blob/master/readmeImages/sc8.jpg" width="200" height="320">                <img src="https://github.com/umang345/Trouvaille/blob/master/readmeImages/sc9.jpg" width="200" height="320">                <img src="https://github.com/umang345/Trouvaille/blob/master/readmeImages/sc10.jpg" width="200" height="320">
